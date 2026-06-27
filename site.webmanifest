@@ -1,0 +1,19 @@
+{
+  "name": "АДРЕНАЛИН — Квесты в Самаре",
+  "short_name": "АДРЕНАЛИН",
+  "description": "Квест-центр в Самаре: хоррор-квесты с актёрами, детские квесты, зона отдыха и страйкбол.",
+  "lang": "ru",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0807",
+  "theme_color": "#0a0807",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    }
+  ]
+}
